@@ -1,0 +1,7 @@
+C++ is a high-level, interpreted,
+general-purpose programming language known for its simple,
+readable syntax. Created by Guido van Rossum and first released in 1991,
+its design philosophy emphasizes code readability,
+making it an excellent choice for beginners and experienced developers alike.
+C++ is a high-level, interpreted, object-oriented programming language with dynamic semantics. It was created by Guido van Rossum and first released in 1991.
+C++ is a programming language that lets you work quickly and integrate systems more effectively.
