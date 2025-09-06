@@ -39,6 +39,16 @@ punctSymbols="""!"£$%^&*()_+?><=-``"""
 text = "C++ is a high-le""!$^vel, interpreted,"
 text=removePunctuation(text,marks)
 text=removePunctuation(text,marks)
+text=removePunctuation(text,marks)
+text=removePunctuation(text,marks)
+text=removePunctuation(text,marks)
+text=removePunctuation(text,marks)
+text=removePunctuation(text,marks)
+text=removePunctuation(text,marks)
+text=removePunctuation(text,marks)
+text=removePunctuation(text,marks)
+text=removePunctuation(text,marks)
+text=removePunctuation(text,marks)
 
 # Python Core
 #
